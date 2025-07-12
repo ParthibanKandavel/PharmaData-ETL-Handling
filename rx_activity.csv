@@ -1,0 +1,5 @@
+prescriber_id,drug_name,quantity
+101,DrugA,50
+101,DrugB,30
+102,DrugA,40
+103,DrugC,60

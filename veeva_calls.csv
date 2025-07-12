@@ -1,0 +1,4 @@
+call_id,prescriber_id,call_date,rep_name,call_type
+1001,101,2024-01-10,Alice,Detail
+1002,102,2024-01-12,Bob,Sample Drop
+1003,101,2024-01-15,Alice,Follow-up
