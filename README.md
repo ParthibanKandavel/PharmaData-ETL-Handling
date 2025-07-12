@@ -25,14 +25,4 @@ This project simulates a pharmaceutical ETL data pipeline using IQVIA-like and V
 - Prescription trend analysis using IQVIA-like LRx data.
 - Territory-level sales KPI dashboarding.
 
-## Folder Structure
-
-```
-pharma_etl_mock_project/
-prescribers,rx_activity,veeva_calls.csv              # Raw sample data files (CSV)
-pharma_etl_pipeline.py                               # Python scripts for ETL
-create_tables.sql                                    # Schema and table creation script
-
----
-
 This project is for learning and demonstration purposes only. Data used is fully synthetic.
