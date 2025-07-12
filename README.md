@@ -29,14 +29,9 @@ This project simulates a pharmaceutical ETL data pipeline using IQVIA-like and V
 
 ```
 pharma_etl_mock_project/
-├── data/               # Raw sample data files (CSV)
-├── etl/                # Python scripts for ETL
-├── sql/                # Schema and table creation scripts
-├── notebooks/          # Jupyter notebooks for EDA and reporting
-├── reports/            # Output graphs or PDF dashboards
-├── docs/               # Documentation and metadata
-└── README.md
-```
+prescribers,rx_activity,veeva_calls.csv              # Raw sample data files (CSV)
+pharma_etl_pipeline.py                               # Python scripts for ETL
+create_tables.sql                                    # Schema and table creation script
 
 ---
 
